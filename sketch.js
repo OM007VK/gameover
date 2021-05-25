@@ -49,7 +49,7 @@ function draw() {
 
   textSize(15)
   fill("black")
-  text("Make the Dog Eat the Bone And Don't Let The Stone Hit The Dog",138,38);
+  text("Make the Dog Eat the Bone And Don't Let The Stone Hit The Dog (use - spacebar)",138,35);
   textSize(25)
   fill("black")
   text("________________________________",135,38);
